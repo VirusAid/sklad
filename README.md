@@ -12,8 +12,6 @@
   <img alt="tests" src="https://img.shields.io/badge/tests-46%20passing-brightgreen.svg">
 </p>
 
-> *sklad* (склад) is Russian for "storehouse / warehouse".
-
 ---
 
 ## What is it?
